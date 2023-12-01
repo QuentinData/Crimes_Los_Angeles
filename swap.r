@@ -16,3 +16,4 @@ ggplot(data, aes(x = x, y = y)) +
   ylab("Y Axis Label")
 
 qtn <- 5
+qtn2 <- 6
