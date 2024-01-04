@@ -1,4 +1,4 @@
-# Crimes Loas Angeles
+# Crimes Los Angeles
 
 ## Introduction
 L'application "Crimes par Armes à Feu à Los Angeles en 2022" offre la possibilité d'approfondir ses connaissances sur les crimes impliquant des armes à feu dans la ville de Los Angeles.
