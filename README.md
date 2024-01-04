@@ -5,7 +5,7 @@ L'application "Crimes par Armes à Feu à Los Angeles en 2022" offre la possibil
 
 Voici un aperçu de l'application : 
 
-<img width="1440" alt="apercu" src="[https://github.com/QuentinData>](https://github.com/QuentinData/Crimes_Los_Angeles/blob/main/apercu.png)
+![Capture d'écran](apercu.png)
 
 
 ## Comment exécuter l'application
